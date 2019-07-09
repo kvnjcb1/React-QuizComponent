@@ -8,9 +8,9 @@
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "What is the sum of 12 and 13?",
+      "answer_options": ["25", "26", "23", "28"],
+      "answer": "25"
     }
   ]
 }
